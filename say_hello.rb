@@ -1,6 +1,6 @@
 
 
 def say_hello(name = "Jesse")
-  puts "Hello ,  #{name}"
+  puts "Hello ,  #{Jesse}"
 end
 say_hello ("Jesse")
