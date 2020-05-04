@@ -1,7 +1,7 @@
 
 
 def say_hello(name = "Hello Ruby Programmer!")
-  puts "#{name}"
+  puts "#{jesse}"
 end
 say_hello ("jesse")
 say_hello()
