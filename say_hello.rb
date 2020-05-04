@@ -1,7 +1,7 @@
 
 
 def say_hello(name = "Hello Ruby Programmer!")
-  puts "  #{name}"
+  puts "#{name}"
 end
 say_hello ("kent back")
 say_hello()
