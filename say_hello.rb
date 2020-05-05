@@ -1,3 +1,4 @@
 def say_hello(name ="Hello Ruby Programmer!")
-puts "name "
+puts "Hello Ruby Programmer! "
 end
+say_hello
